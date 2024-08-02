@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td><img src="ln.png" alt="lightning" width="360px" height="400px"></td>
-    <td><img src="ln.png" alt="lightning" width="360px" height="400px"></td>
+    <td><img src="btc.png" alt="LN/BTC" width="400px" height="400px"></td>
+    <td><img src="xmr.png" alt="Monero" width="400px" height="400px"></td>
   </tr>
 </table>
