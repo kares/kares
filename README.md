@@ -1,3 +1,4 @@
+## Metrics
 
 ![kares' metrics](/github-metrics.svg)
 

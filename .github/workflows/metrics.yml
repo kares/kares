@@ -30,33 +30,40 @@ jobs:
           user: kares
           template: classic
           config_display: large
-          base: repositories, metadata
+          base: repositories
           config_timezone: Europe/Zurich
           repositories_skipped: |
             kares/kares
+          #
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_ignored: worker, follower, deployer, chatter, verified, automator
+          #
           plugin_lines: yes
           plugin_lines_history_limit: 0
-          plugin_lines_repositories_limit: 30
-          plugin_lines_sections: base, repositories, history
-          plugin_lines_delay: 10 # seconds
+          plugin_lines_repositories_limit: 300
+          plugin_lines_sections: history
+          plugin_lines_delay: 15
+          #
           plugin_followup: yes
-          plugin_followup_sections: repositories
-          #plugin_followup_indepth: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
+          #
           plugin_habits: no
           plugin_habits_from: 3000
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_languages_limit: 8
+          #
           plugin_introduction: yes
           plugin_introduction_title: yes
+          #
           plugin_reactions: yes
           plugin_reactions_limit: 1000
           plugin_reactions_limit_issues: 1000
           plugin_reactions_details: count
-          plugin_notable: yes
+          #
+          plugin_notable: no
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
