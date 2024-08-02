@@ -31,6 +31,10 @@ jobs:
           template: classic
           config_display: large
           base: repositories
+          base_indepth: yes
+          repositories: 300
+          repositories_affiliations: owner, collaborator, organization_member
+          #commits_authoring: kares
           config_timezone: Europe/Zurich
           repositories_skipped: |
             kares/kares

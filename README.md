@@ -1,7 +1,3 @@
-## Metrics
-
-![kares' metrics](/github-metrics.svg)
-
 ## Support
 
 <table>
@@ -10,3 +6,7 @@
     <td><img src="xmr.png" alt="Monero" width="400px" height="400px"></td>
   </tr>
 </table>
+
+## Metrics
+
+![kares' metrics](/github-metrics.svg)
