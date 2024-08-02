@@ -29,11 +29,14 @@ jobs:
           # Options
           user: kares
           template: classic
+          config_display: large
           base: repositories, metadata
           config_timezone: Europe/Zurich
           repositories_skipped: |
             kares/kares
           plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_ignored: worker, follower, deployer, chatter, verified, automator
           plugin_lines: yes
           plugin_lines_history_limit: 0
           plugin_lines_repositories_limit: 30
@@ -53,7 +56,7 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 1000
           plugin_reactions_limit_issues: 1000
-          plugin_reactions_details: count, percentage
+          plugin_reactions_details: count
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
