@@ -28,8 +28,10 @@ jobs:
 
           # Options
           user: kares
-          template: classic
-          config_display: large
+          template: markdown
+          filename: metrics-generated.md
+          config_output: markdown
+          #config_display: large
           base: repositories
           base_indepth: yes
           repositories: 300
