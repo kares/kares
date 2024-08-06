@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <img src="btc.png" alt="LN/BTC" width="360px" height="360px" margin-right="10px">
-      <img src="xmr.png" alt="Monero" width="360px" height="360px" margin-left="10px">
+      <img src="btc.png" alt="LN/BTC" width="360px" height="360px" style="padding: 5px">
+      <img src="xmr.png" alt="Monero" width="360px" height="360px" style="padding: 5px">
     </td>
   </tr>
 </table>
