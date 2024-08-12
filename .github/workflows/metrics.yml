@@ -41,7 +41,7 @@ jobs:
             kares/kares
           #
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           plugin_achievements_ignored: worker, follower, deployer, chatter, verified, automator
           #
           plugin_lines: yes
@@ -67,7 +67,7 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 1000
           plugin_reactions_limit_issues: 1000
-          plugin_reactions_details: percent
+          plugin_reactions_details: percentage
           #
           plugin_notable: no
           plugin_notable_indepth: yes
