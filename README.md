@@ -1,4 +1,13 @@
+## About
+
+Greetings, have been fascinated by OSS early on as I stumbled upon having to drill down into the source.
+Started contributing and maintaining full-time around 2011 and ended up doing so for more than a decade.
+I tried consulting, community driven support and even corporate open-source. 
+None of which really worked in the long run, in terms of being sustainable.
+
 ## Support
+
+You can buy me a coffee (machine) or two, if you respect my work.
 
 <table>
   <tr>
