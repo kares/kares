@@ -26,10 +26,11 @@ jobs:
 
           # Options
           user: kares
-          template: markdown
-          filename: metrics-generated.md
-          config_output: markdown
-          #config_display: large
+          template: classic
+          config_display: large
+          #template: markdown
+          #filename: metrics-generated.md
+          #config_output: markdown
           base: repositories
           base_indepth: yes
           repositories: 300
@@ -56,9 +57,9 @@ jobs:
           plugin_habits: no
           plugin_habits_from: 3000
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 90
           plugin_habits_facts: yes
-          plugin_habits_languages_limit: 8
+          plugin_habits_languages_limit: 12
           #
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -66,7 +67,7 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 1000
           plugin_reactions_limit_issues: 1000
-          plugin_reactions_details: count
+          plugin_reactions_details: percent
           #
           plugin_notable: no
           plugin_notable_indepth: yes
