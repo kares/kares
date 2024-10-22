@@ -1,9 +1,10 @@
 ## About
 
-Greetings, have been fascinated by OSS early on as I stumbled upon having to drill down into the source.
-Started contributing and maintaining full-time around 2011 and ended up doing so for more than a decade.
-I tried consulting, community driven support and even corporate open-source. 
-None of which really worked in the long run, in terms of being sustainable.
+Hi there! 
+Been intrigued by OSS ever since my first experience of having to change a third party library. 
+I began contributing and maintaining projects full-time around 2011, and have been doing so for over a decade. 
+I've explored various avenues, including consulting, community-driven support, and corporate open-source roles. 
+Unfortunately, none of these options proved to be sustainable in the long run.
 
 ## Support
 
