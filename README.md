@@ -1,10 +1,12 @@
 ## About
 
-Hi there! 
-Been intrigued by OSS ever since my first experience of having to change a third party library. 
-I began contributing and maintaining projects full-time around 2011, and have been doing so for over a decade. 
-I've explored various avenues, including consulting, community-driven support, and corporate open-source roles. 
-Unfortunately, none of these options proved to be sustainable in the long run.
+Hi, I'm Karol.
+
+I've spent a large part of the last decade+ working in open source, mostly around JRuby and the Ruby/JVM ecosystem. My contributions span core runtime work, ActiveRecord JDBC support, OpenSSL compatibility, Rack integration.
+
+I’m especially interested in the edges of software systems: compatibility, upgrades, debugging production behavior, and bridging worlds to fit together perfectly.
+
+I like practical engineering, mature (legacy) systems and software that survives contact with reality. If that overlaps with what you're building, feel free to reach out.
 
 ## Support
 
