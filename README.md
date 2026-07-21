@@ -2,15 +2,15 @@
 
 Hi, I'm Karol.
 
-I've spent a large part of the last decade+ working in open source, mostly around JRuby and the Ruby/JVM ecosystem. My contributions span core runtime work, ActiveRecord JDBC support, OpenSSL compatibility, Rack integration.
+I've spent a large part of the last decade+ working in open source, mostly around [JRuby](https://www.jruby.org) and the Ruby/JVM ecosystem. My contributions span core runtime work, [ActiveRecord JDBC](https://github.com/jruby/activerecord-jdbc-adapter) support, [OpenSSL](https://github.com/jruby/jruby-openssl) compatibility, and [Rack](https://github.com/jruby/jruby-rack) integration.
 
-I’m especially interested in the edges of software systems: compatibility, upgrades, debugging production behavior, and bridging worlds to fit together perfectly.
+I'm especially interested in the edges of software systems: compatibility, upgrades, debugging production behavior, and bridging worlds so they fit together.
 
 I like practical engineering, mature (legacy) systems and software that survives contact with reality. If that overlaps with what you're building, feel free to reach out.
 
 ## Support
 
-You can buy me a coffee (machine) or two, if you respect my work.
+If any of my work has helped you, you can buy me a coffee (machine) or two.
 
 <table>
   <tr>
