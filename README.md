@@ -24,7 +24,7 @@ You can buy me a coffee (machine) or two, if you respect my work.
   <tr>
     <td>
       <details><summary><b>LN/BTC</b></summary>
-      <pre><code>lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qtj88qf35cakhhtaav5g3t8wrefth2aj0mz30yufg6mtvgdhg3a35qsz0xqrshewpyl2vqjp4vsvhgqgaartxvzgrfhqmenxn9cqq4ypy3wqqve4rauym5pmztqtv9qfu4cvljtk4r0phm9scjfsqha9y22zx30e3uvea2u9ldhr95evvytdz7235qrfsfzcq24r6zzyl4nwyjz82cp8q8tcfdw4jhsdnzl05yaf65ytauzcj7xm6qqsnqa7zp5qsw0mqntustvzdp3jgv</code></pre>
+      <pre><code>lno1pgqppmsrse80qf0aara4slvcjxrvu6j2rp5ftmjy4yntlsmsutpkvkt6878syw8qgj2ysjzsn66d9r0u4q06kvw6kd7ktl4rswrm7353grgvm0svqgpvyfph79zdhn8d4kgpwgyuhvrncdzss074u82dd5294rehjeaqg4cqxw9mcmkehmena03j5e5g26f2at959mjsz2rmpzsyc2uwdnandt7jpju3g2u33pygxqgfuh0rcm0ue79afpqq9yxkx9jxjmvnnvy6av3pu2gdqpytg3wsknf93lg02nrzxmuaafpkqqe82k49t2gxcv0lhmy2udqrergtpzytmpweud6gyux89drf2vhazpk8xtxlykd0h53k0e977yq893dgk3cs</code></pre>
       </details>
     </td>
     <td>
